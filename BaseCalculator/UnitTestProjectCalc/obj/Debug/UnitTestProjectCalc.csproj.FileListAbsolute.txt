@@ -1,0 +1,7 @@
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\bin\Debug\UnitTestProjectCalc.dll
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\bin\Debug\UnitTestProjectCalc.pdb
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\bin\Debug\BaseCalculator.exe
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\bin\Debug\BaseCalculator.pdb
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.dll
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\UnitTestProjectCalc\obj\Debug\UnitTestProjectCalc.pdb

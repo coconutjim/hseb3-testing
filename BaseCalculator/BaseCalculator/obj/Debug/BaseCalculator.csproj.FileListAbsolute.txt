@@ -1,0 +1,37 @@
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe.config
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.exe
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.pdb
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.pdb
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.BaseCalc.resources
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.Properties.Resources.resources
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\works\Dropbox\HSE\Качество\Мои презентации\Семинар 8(6)\to\BaseCalculator\BaseCalculator\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe.config
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.pdb
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csprojResolveAssemblyReference.cache
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.BaseCalc.resources
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.Properties.Resources.resources
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csproj.GenerateResource.Cache
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.exe
+D:\Works\Лекции\Качество\2014\p5_Refactoring\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.pdb
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe.config
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.exe
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.pdb
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.pdb
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csprojResolveAssemblyReference.cache
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.BaseCalc.resources
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.Properties.Resources.resources
+D:\Works\Лекции\Качество\2014\p5_Refactoring\tmp\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csproj.GenerateResource.Cache
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe.config
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.exe
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.pdb
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.exe
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\bin\Debug\BaseCalculator.pdb
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.BaseCalc.resources
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.Properties.Resources.resources
+C:\Users\Lev\Dropbox\Study_Materials_3\Тестирование\6\BaseCalculator\BaseCalculator\obj\Debug\BaseCalculator.csproj.GenerateResource.Cache
